@@ -1,6 +1,6 @@
 # RHCSA-Practice-Exams
 Pracice Exam 1
-Question 1:
+Question 1: How to create a local YUM repository using a RHEL 9 ISO image, assuming the image is mounted on either /mnt or /run in a Linux VM?
 
 1. mount /dev/sr0 /mnt
 
