@@ -16,4 +16,4 @@ enabled=1
 
 gpgcheck=0 
 
-Save and exit :wq **4.** dnf clean all && dnf repolist **5.** dnf install nano
+Save and exit :wq **4.** dnf clean all && dnf repolist **5.** (test) dnf install nano
