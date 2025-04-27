@@ -21,4 +21,4 @@ Save and exit :wq **4.** dnf clean all && dnf repolist **5.** (test) dnf install
 
 **Question 2: How to configure a network interface in Red Hat Enterprise Linux 9 to use a static IP address setup with these parameters: IPv4 address 192.168.1.211 with a 24-bit subnet mask, a gateway of 192.168.1.1, and a DNS server address of 8.8.8.8?**
 
-**1.** 
+**1.**  
